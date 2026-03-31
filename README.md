@@ -1,17 +1,30 @@
-# ai-unplugged-translation-id
 # AI Unplugged – Indonesian Translation
 
-This repository contains an Indonesian translation of materials from the AI Unplugged owned by Professorship for Computer Science Education, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+This repository contains an Indonesian translation of selected materials from the **AI Unplugged** project developed by the Professorship for Computer Science Education, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany.
 
-Goal:
-Provide accessible AI learning materials for Indonesian students, teachers, and researchers.
+## Goal
+Provide accessible Artificial Intelligence learning materials for Indonesian students, teachers, and researchers, especially for use in Computer Science Education and Computational Thinking activities.
 
-Content:
-Brochure of AI Unplugged
+## Scope
+Currently translated materials:
+- AI Unplugged brochure
+- Selected learning activities
 
-Status:
-Work in progress
+Future plan:
+- Classroom worksheets
+- Teaching modules
+- Glossary of AI terminology in Bahasa Indonesia
+- Adaptation for Indonesian learning context
 
-Contributors welcome.
+## Status
+Work in progress.
 
-Main Page: https://www.aiunplugged.org/ 
+## Contributing
+Contributions, suggestions, and terminology discussions are welcome.
+
+## Reference
+Main page of AI Unplugged:
+https://www.aiunplugged.org/
+
+## License
+Translation provided for educational purposes. Original content belongs to the respective authors.
