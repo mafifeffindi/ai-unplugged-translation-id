@@ -3,7 +3,7 @@
 This repository contains an Indonesian translation of selected materials from the **AI Unplugged** project developed by the Professorship for Computer Science Education, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany.
 
 ## Goal
-Provide accessible Artificial Intelligence learning materials for Indonesian students, teachers, and researchers, especially for use in Computer Science Education and Computational Thinking activities.
+Provide accessible Artificial Intelligence learning materials for Indonesian students, teachers, and researchers, especially for use in AI Education.
 
 ## Scope
 Currently translated materials:
