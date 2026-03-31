@@ -26,5 +26,9 @@ Contributions, suggestions, and terminology discussions are welcome.
 Main page of AI Unplugged:
 https://www.aiunplugged.org/
 
+Developed by:
+Professorship for Computer Science Education  
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
+
 ## License
 Translation provided for educational purposes. Original content belongs to the respective authors.
